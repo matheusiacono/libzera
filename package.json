@@ -1,0 +1,22 @@
+{
+  "name": "libzera",
+  "version": "1.0.0",
+  "description": "Bota pra action!",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "libzera": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusiacono/libzera.git"
+  },
+  "author": "Matheus Iacono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusiacono/libzera/issues"
+  },
+  "homepage": "https://github.com/matheusiacono/libzera#readme"
+}
